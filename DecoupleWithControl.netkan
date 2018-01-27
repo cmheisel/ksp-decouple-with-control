@@ -4,7 +4,7 @@
     "$kref"        : "#/ckan/github/cmheisel/ksp-decouple-with-control",
     "name"         : "Decouple With Control",
     "license"      : "MIT",
-    "$vref" : "#/ckan/ksp-avc",
+    "$vref"        : "#/ckan/ksp-avc",
     "depends": [
         { "name": "ModuleManager" }
     ],
