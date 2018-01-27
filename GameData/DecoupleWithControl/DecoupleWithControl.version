@@ -1,0 +1,31 @@
+{
+	"NAME":"DecoupleWithControl",
+	"URL":"https://raw.githubusercontent.com/cmheisel/decouple-with-control/master/GameData/DecoupleWithControl/DecoupleWithControl.version",
+	"DOWNLOAD":"https://github.com/Kerbas-ad-astra/SMURFF/releases",
+	"GITHUB":{
+		"USERNAME":"cmheisel",
+		"REPOSITORY":"decouple-with-control",
+		"ALLOW_PRE_RELEASE":false
+	},
+	"VERSION":{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":1
+	},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":1
+	},
+	"KSP_VERSION_MAX":{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":1
+	}
+}
